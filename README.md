@@ -1,2 +1,1 @@
-%first commig
-%first commit
+# First commit
